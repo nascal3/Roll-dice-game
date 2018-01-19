@@ -1,0 +1,19 @@
+{
+  "name": "die-game",
+  "version": "1.0.0",
+  "description": "game to roll the dice.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nascal3/roll-dice-game.git"
+  },
+  "author": "Caleb Nasio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nascal3/roll-dice-game/issues"
+  },
+  "homepage": "https://github.com/nascal3/roll-dice-game#readme"
+}
