@@ -1,6 +1,9 @@
 # Roll dice game
 A game project made to help my friends with the fact we always lost or always did not have a dice to play.
 
+## Demo
+<a href="https://nascal3.github.io/Roll-dice-game/">Play game</a>
+
 ## GAME RULES:
 
 - The game has 2 players, playing in rounds
